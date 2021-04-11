@@ -201,3 +201,13 @@
 .theme-dark .container-1If-HZ, .theme-dark .reactors-Blmlhw {
     background-color: var(--background-secondary);
 }
+
+/* Add/Create Server */
+.circleIconButton-1QV--U.selected-1JjBPm {
+    color: #fff;
+    background-color: var(--background-accent)
+  }
+/* Arrow/Composs */
+.circleIconButton-1QV--U {
+    color: #f6faf8;
+}
