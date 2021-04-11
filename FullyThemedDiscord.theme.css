@@ -36,7 +36,7 @@
 .container-1r6BKw.themed-ANHk51 {background: rgb(var(--background-primary)) }
 
 /* Autocomplete */
-.list-donH_Z {background-color: rgb(rgb(var(--background-secondary))) }
+.list-donH_Z {background-color: rgb(var(--background-secondary)) }
 .list-17lzo8 { background-color: rgb(var(--background-primary)) }
 .categoryHeader-O1zU94 {background-color: rgb(var(--background-secondary)) }
 .headerLabel-3dG4M- {color: #fff; }
@@ -108,7 +108,7 @@
 
 /* Auto Complete */
 .autocompleteInner-zh20B_ {background-color: rgb(var(--background-secondary)); }
-.theme-dark .selected-1Tbx07 { background-color: var(--background-modifier-hover); }
+.theme-dark .selected-1Tbx07 { background-color: rgb(var(--background-modifier-hover)); }
 
 /* Reaction Menu */
 .theme-dark .scroller-1-nKid { background-color: rgb(var(--background-primary)); }
