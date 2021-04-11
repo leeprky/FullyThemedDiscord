@@ -1,6 +1,8 @@
 ## FullyThemedDiscord
 A Discord theme with easy config and sleek user UI and design. With support for multiple clients & glasscord.
 
+Additonally: https://github.com/Discord-Theme-Addons/theme-source
+
 ## INFO
 
 This Is NOT A THEME.
