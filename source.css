@@ -18,7 +18,7 @@
 }
 /* Search Box Fix */
 /* SearchDropbox */
-.theme-dark .container-3ayLPN, .elevationBorderHigh-2WYJ09 {background-color: var(--background-primary);box-shadow: none; }
+.theme-dark .container-3ayLPN, .elevationBorderHigh-2WYJ09 {background-color: var(--background-secondary);box-shadow: none; }
   .theme-dark .option-96V44q.selected-rZcOL- {background-color: var(--background-modifier-hover); }
   .resultsGroup-r_nuzN .searchLearnMore-3SQUAj {display: none; }
   .theme-dark .option-96V44q:after {display: none; }
