@@ -6,7 +6,6 @@
 
     ------------------------------------------  */
 
-
     /* INTENTED TO BE USED WITH  A THEME THAT CHANGES COLOURS */
 
     /* INTENTED TO BE USED WITH  A THEME THAT CHANGES COLOURS */
@@ -220,5 +219,10 @@
     background-color: var(--background-primary);
 }
 .theme-dark .tierHeaderLocked-1s2JJz {
+    background-color: var(--background-secondary);
+}
+
+/* Invite Screen */
+.scroller-3__pG8 {
     background-color: var(--background-secondary);
 }
