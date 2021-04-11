@@ -25,15 +25,13 @@
   .theme-dark .option-96V44q.selected-rZcOL- {background-color: var(--background-modifier-hover); }
   .resultsGroup-r_nuzN .searchLearnMore-3SQUAj {display: none; }
   .theme-dark .option-96V44q:after {display: none; }
-  /* calender */
-  .theme-dark .calendarPicker-2yf6Ci .react-datepicker {background-color: var(--background-primary); }
-  .theme-dark .calendarPicker-2yf6Ci .react-datepicker__header {background-color: var(--background-secondary); border-color: rgba(24,25,28,.2); }
-  .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled:hover {
-    background-color: var(--background-secondary); color: rgba(246,246,247,.3); }
-  .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day--disabled, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day--outside-month {
-    background-color: var(--background-secondary2); color: rgba(246,246,247,.3); }
+/* calender */
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker {background-color: var(--background-primary); }
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker__header {background-color: var(--background-secondary); border-color: rgba(24,25,28,.2); }
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled:hover {background-color: var(--background-secondary); color: rgba(246,246,247,.3); }
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker__day--disabled, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day--outside-month {background-color: var(--background-secondary2); color: rgba(246,246,247,.3); }
 
-  /* Friends Area */
+/* Friends Area */
 .peopleColumn-29fq28 {background-color: var(--background-secondary) }
 /* topbar */
 .container-1r6BKw.themed-ANHk51 {background: var(--background-primary) }
@@ -68,7 +66,6 @@
 .scrollableContainer-2NUZem {background-color: var(--channelltextarea-background); }
 
 /* Modal Coloours Background Only */
-
 /* Normal Colours */
 .theme-dark .headerNormal-T_seeN {background: var(--background-secondary); }
 .theme-light .headerNormal-T_seeN {background: var(--background-secondary); }
@@ -128,7 +125,6 @@
 /* Server Boost Area */
 .theme-dark .perk-2WeBWW {background-color: var(--background-primary); }
 .theme-dark .tierBody-16Chc9 {background-color: var(--background-primary); }
-
 .theme-dark .tierHeaderLocked-1s2JJz {background-color: var(--background-secondary); }
 
 /* Invite Screen */
