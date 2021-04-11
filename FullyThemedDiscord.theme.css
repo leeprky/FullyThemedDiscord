@@ -211,3 +211,14 @@
 .circleIconButton-1QV--U {
     color: #f6faf8;
 }
+
+/* Server Boost Area */
+.theme-dark .perk-2WeBWW {
+    background-color: var(--background-primary);
+}
+.theme-dark .tierBody-16Chc9 {
+    background-color: var(--background-primary);
+}
+.theme-dark .tierHeaderLocked-1s2JJz {
+    background-color: var(--background-secondary);
+}
