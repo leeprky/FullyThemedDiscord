@@ -13,6 +13,11 @@
 
     /* INTENTED TO BE USED WITH  A THEME THAT CHANGES COLOURS */
 
+/* WinBar */ /*
+.theme-dark .withFrame-haYltI {
+    background-color: var(--background-primary);
+}
+
 /* Search Box Fix */
 /* SearchDropbox */
 .theme-dark .container-3ayLPN, .elevationBorderHigh-2WYJ09 {
