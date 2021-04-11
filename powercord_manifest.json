@@ -4,5 +4,5 @@
     "version": "1.0",
     "author": "Leeprky#2063",
     "license": "MIT",
-    "theme": "FullyThemedDiscord.css"
+    "theme": "FullyThemedDiscord.theme.css"
 }
