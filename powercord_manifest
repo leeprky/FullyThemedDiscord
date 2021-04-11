@@ -1,0 +1,8 @@
+{
+    "name": "FullyThemedDiscord",
+    "description": "FullyThemesDiscord Applying :roots To Areas Without",
+    "version": "0.1",
+    "author": "Leeprky#2063",
+    "license": "MIT",
+    "theme": "FullyThemedDiscord.css"
+}
