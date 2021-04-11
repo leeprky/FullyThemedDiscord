@@ -10,7 +10,7 @@ It Is intended to be used with themes that change Colours, and this fixes the st
 - Any Issues DM Leeprky#2063
   Hope You Enjoy!
 
-## How To Install Naive
+## How To Install FullyThemedDiscord
 
 > Head to C:\Users\[USER]\powercord\src\Powercord
 
