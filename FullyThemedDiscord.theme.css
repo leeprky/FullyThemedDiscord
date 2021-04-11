@@ -189,3 +189,15 @@
 .theme-dark .selected-1Tbx07 {
     background-color: var(--background-modifier-hover);
 }
+
+/* Reaction Menu */
+.theme-dark .scroller-1-nKid {
+    background-color: var(--background-primary);
+}
+.theme-dark .reactionSelected-1pqISm {
+    width: 67px;
+    border-radius: 4px;
+}
+.theme-dark .container-1If-HZ, .theme-dark .reactors-Blmlhw {
+    background-color: var(--background-secondary);
+}
