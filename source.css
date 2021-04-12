@@ -135,3 +135,10 @@
 
 /* Hypesquad */
 .attendeeCTA-3ZZQWt { background-color: var(--background-secondary); }
+
+/* New Status Menu */
+.popout-VcNcHB { background-color: var(--background-primary); border-radius: 12px; }
+.lookFilled-22uAsw.select-2fjwPw { background-color: var(--background-primary-alt); }
+.option-3KoAJB[aria-selected=true] { background-color: var(--background-primary-alt); }
+.option-3KoAJB.focused-1T6PE5, .option-3KoAJB:focus, .option-3KoAJB:hover { background-color: var(--background-primary-alt); }
+.emojiPicker-3PwZFl, .unicodeShortcut-15J8Ck, .inspector-3LQtX9 { background-color: var(--background-secondary); border-radius: 12px 12px 12px 12px; }
