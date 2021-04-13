@@ -14,11 +14,9 @@ It Is intended to be used with themes that change Colours, and this fixes the st
 
 ## How To Install FullyThemedDiscord
 
-> Head to C:\Users\[USER]\powercord\src\Powercord
+Open CMD & Copy This
 
-> Right Click "themes" and click Git Bash Here
-
-> Type "git clone https://github.com/leeprky/FullyThemedDiscord"
+cd powercord/src/Powercord/themes && git clone https://github.com/leeprky/FullyThemedDiscord
 
 > Refresh Discord
 
