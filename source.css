@@ -151,6 +151,11 @@
 .theme-dark .footer-2gL1pp {background-color: var(--background-secondary) }
 .theme-dark .root-1gCeng, .form-26zE04 {background-color: transparent }
 
+/* Delete Message Menu */
+
+.theme-dark .message-2qRu38 {background-color: var(--background-secondary);}
+.theme-dark .root-1gCeng, .form-26zE04 {background-color: var(--background-primary) }
+
 /* END OF DISCORD SUPPORT */
 
 
