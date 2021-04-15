@@ -1,6 +1,6 @@
 /*  ------------------------------------------
             Fully Themed Discord Source
-                      v1.1
+                      v1.2
                 - leeprky#2063 -
     ------------------------------------------  */
 
@@ -145,6 +145,11 @@
 
 /* Context Menu */
 .toolbar-2bjZV7 {background-color: var(--background-floating) }
+
+/* We Cant Hear You Menu */
+.modalContent-1T1Tix {background-color: var(--background-primary) }
+.theme-dark .footer-2gL1pp {background-color: var(--background-secondary) }
+.theme-dark .root-1gCeng, .form-26zE04 {background-color: transparent }
 
 /* END OF DISCORD SUPPORT */
 
