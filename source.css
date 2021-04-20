@@ -164,7 +164,12 @@
 .inner-2P4tQO { background-color: var(--background-primary);
 .container-3XJ8ns { background-color: var(--background-secondary); }
 
-
+.theme-dark .inset-3sAvek {
+  background-color: var(--background-secondary)
+}
+.theme-dark .outer-1AjyKL.active-1xchHY, .theme-dark .outer-1AjyKL.interactive-3B9GmY:hover {
+  background-color: var(--background-modifier-hover);
+}
 
 /* END OF DISCORD SUPPORT */
          
