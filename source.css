@@ -12,265 +12,105 @@
     /* INTENTED TO BE USED WITH  A THEME THAT CHANGES COLOURS */
 
 
-/* WinBar */ /*
-.theme-dark .withFrame-haYltI {
-    background-color: var(--background-primary);
-}
-/* Search Box Fix */
-/* SearchDropbox */
-.theme-dark .container-3ayLPN, .elevationBorderHigh-2WYJ09 {background-color: var(--background-secondary);box-shadow: none; }
-  .theme-dark .option-96V44q.selected-rZcOL- {background-color: var(--background-modifier-hover); }
-  .resultsGroup-r_nuzN .searchLearnMore-3SQUAj {display: none; }
-  .theme-dark .option-96V44q:after {display: none; }
-/* calender */
-.theme-dark .calendarPicker-2yf6Ci .react-datepicker {background-color: var(--background-primary); }
-.theme-dark .calendarPicker-2yf6Ci .react-datepicker__header {background-color: var(--background-secondary); border-color: rgba(24,25,28,.2); }
-.theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled:hover {background-color: var(--background-secondary); color: rgba(246,246,247,.3); }
-.theme-dark .calendarPicker-2yf6Ci .react-datepicker__day--disabled, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day--outside-month {background-color: var(--background-secondary2); color: rgba(246,246,247,.3); }
-
-/* Friends Area */
-.peopleColumn-29fq28 {background-color: var(--background-secondary) }
-/* topbar */
-.container-1r6BKw.themed-ANHk51 {background: var(--background-primary) }
-
-/* Autocomplete */
-.list-donH_Z {background-color: var(--background-secondary) }
-.list-17lzo8 { background-color: var(--background-primary) }
-.categoryHeader-O1zU94 {background-color: var(--background-secondary) }
-.headerLabel-3dG4M- {color: #fff; }
-
-/* Powercord Toasts */
-.powercord-toast {border-radius: 18px; background-color: transparent;}
-.powercord-toast .header { background-color: var(--background-secondary); border-radius: 12px 12px 0px 0px;}
-.powercord-toast .buttons { background-color: var(--background-secondary-alt); border-radius: 0px 0px 10px 10px;}
-.lookGhost-2Fn_0-.colorBrand-3pXr91 { color: #F4F7F5; background-color: var(--background-help-info)}
-.lookGhost-2Fn_0-.colorBrand-3pXr91:hover { color: #F4F7F5; background-color: var(--background-modifier-hover)}
-.lookOutlined-3sRXeN.colorRed-1TFJan {color: #F4F7F5; border-color: #f04747d0; background-color: #f0474738; }
-.lookOutlined-3sRXeN.colorRed-1TFJan:hover {color: #F4F7F5; border-color: #eb2e2ed0; background-color: #e93636a8; }
-.lookOutlined-3sRXeN.colorGrey-2DXtkV {color: #F4F7F5; border-color: #b6bec9; background-color: #747f8d93; }
-.lookOutlined-3sRXeN.colorGrey-2DXtkV:hover {color: #F4F7F5; border-color: #cbd3df; background-color: #99a6b893; }
-.lookOutlined-3sRXeN .contents-18-Yxp { color: #fff;}
-.powercord-toast .header { font-size: 15px; }
-.powercord-toast .contents .inner {background-color: transparent;border: none;}
-
-/* Discord Communites Bg */
-.theme-dark .pageWrapper-1PgVDX {background-color: var(--background-secondary); }
-
-/* Connections */
-.accountList-33MS45 {background-color: var(--background-accent) }
-
-/* Text Area */
-.scrollableContainer-2NUZem {background-color: var(--channelltextarea-background); }
-
-/* Modal Coloours Background Only */
-/* Normal Colours */
-.theme-dark .headerNormal-T_seeN {background: var(--background-secondary); }
-.theme-light .headerNormal-T_seeN {background: var(--background-secondary); }
-.headerNormal-T_seeN, .topSectionNormal-2-vo2m {background: var(--background-secondary); }
-.body-3ND3kc {height: 240px;background-color: var(--background-primary-alt); }
-
-/* secondary modal */
-.theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6 {background-color: var(--background-primary-alt) }
-.theme-light .body-3iLsc4, .theme-dark .footer-1fjuF6 {background-color: var(--background-primary-alt) }
-
-/* Permisions Area For Channel Header */
-.cardContent-qqqwo8 {background-color: var(--background-secondary-alt); }
-
-/* My Account Edit Button */
-.theme-dark .lookFilled-1Gx00P.colorGrey-2DXtkV {
-    background-color: var(--background-primary-alt); }
-.theme-light .lookFilled-1Gx00P.colorGrey-2DXtkV { background-color: var(--background-primary-alt); }
-
-/* Game Activity Header */
-.theme-dark .notDetected-33MY4s, .theme-light .notDetected-33MY4s { background-color: var(--background-primary-alt); }
-.theme-light .notDetected-33MY4s, .theme-light .notDetected-33MY4s { background-color: var(--background-primary-alt); }
-
-/* Community Settings */
-.upsellFooter-ZYsio_ {background-color: var(--background-primary-alt); }
-
-/* MemberShip Sxreening */
-.enableContainer-2DIT9Q, .settingsFormFieldWrapper-3Y77Pr {background-color: var(--background-primary-alt); }
-
-/* Server Bost Status */
-.tierHeaderContent-2-YfvN {background-color: var(--background-secondary); }
-.theme-dark .tierBody-x9kBBp { background-color: var(--background-primary-alt); }
-.theme-light .tierBody-x9kBBp {background-color: var(--background-primary-alt); }
-/* Gift Button In Nitro Settings */
-.theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6 {background-color: var(--background-primary-alt);}
-
-/* Notice Nav Bar */
-.notice-3uyY6c, .notice-3bPHh-  {background-color: var(--background-accent)}
-
-/* Copy Webhook URL Button */
-.theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6 {background-color: var(--background-primary-alt);}
-
-/* Auto Complete */
-.autocompleteInner-zh20B_ {background-color: var(--background-secondary); }
-.theme-dark .selected-1Tbx07 { background-color: var(--background-modifier-hover); }
-
-/* Reaction Menu */
-.theme-dark .scroller-1-nKid { background-color: var(--background-primary); }
-.theme-dark .reactionSelected-1pqISm { width: 67px;border-radius: 4px; }
-
-.theme-dark .container-1If-HZ, .theme-dark .reactors-Blmlhw {background-color: var(--background-secondary); }
-
-/* Add/Create Server */
-.circleIconButton-1QV--U.selected-1JjBPm { color: #fff; background-color: var(--background-accent) }
-/* Arrow/Composs */
-.circleIconButton-1QV--U {color: #f6faf8; }
-
-/* Server Boost Area */
-.theme-dark .perk-2WeBWW {background-color: var(--background-primary); }
-.theme-dark .tierBody-16Chc9 {background-color: var(--background-primary); }
-.theme-dark .tierHeaderLocked-1s2JJz {background-color: var(--background-secondary); }
-
-/* Invite Screen */
-.scroller-3__pG8 {background-color: var(--background-secondary); }
-
-/* Add Game Popup */
-.theme-dark .addGamePopout-2RY8Ju, .css-1ye7vu0  {background-color: var(--background-secondary);}
-
-/* Powercord Stuff */
-.powercord-account, .powercord-product, .formNotice-2_hHWR { background-color: var(--background-secondary); }
-
-/* Hypesquad */
-.attendeeCTA-3ZZQWt { background-color: var(--background-secondary); }
-
-/* New Status Menu */
-.popout-VcNcHB { background-color: var(--background-primary); border-radius: 12px; }
-.lookFilled-22uAsw.select-2fjwPw { background-color: var(--background-primary-alt); }
-.option-3KoAJB[aria-selected=true] { background-color: var(--background-primary-alt); }
-.option-3KoAJB.focused-1T6PE5, .option-3KoAJB:focus, .option-3KoAJB:hover { background-color: var(--background-primary-alt); }
-.emojiPicker-3PwZFl, .unicodeShortcut-15J8Ck, .inspector-3LQtX9 { background-color: var(--background-secondary); border-radius: 12px 12px 12px 12px; }
-
-/* Context Menu */
-.toolbar-2bjZV7 {background-color: var(--background-floating) }
-
-/* We Cant Hear You Menu */
-.modalContent-1T1Tix {background-color: var(--background-primary) }
-.theme-dark .footer-2gL1pp {background-color: var(--background-secondary) }
-.theme-dark .root-1gCeng, .form-26zE04 {background-color: transparent }
-
-/* Delete Message Menu */
-
-.theme-dark .message-2qRu38 {background-color: var(--background-secondary);}
-.theme-dark .root-1gCeng, .form-26zE04 {background-color: var(--background-primary) }
-
-/* Friends Background / TabBar */
-.tabBody-3YRQ8W {background-color: var(--background-primary);}
-.container-1r6BKw.themed-ANHk51 {background: var(--background-primary)}
-
-/* Add Role Menu */
-.inner-2P4tQO { background-color: var(--background-primary);
-.container-3XJ8ns { background-color: var(--background-secondary); }
-
-.theme-dark .inset-3sAvek {
-  background-color: var(--background-secondary)
-}
-.theme-dark .outer-1AjyKL.active-1xchHY, .theme-dark .outer-1AjyKL.interactive-3B9GmY:hover {
-  background-color: var(--background-modifier-hover);
-}
-
-/* Search Fix */
-.theme-dark .outer-1AjyKL.active-1xchHY, .theme-dark .outer-1AjyKL.interactive-3B9GmY:hover, .section-2gLsgF {
-   background-color: var(--background-primary);
-}
-            
-.input-2VB9rf  {
-  background-color: var(--background-primary);
-}
-
-.theme-dark .focused-2bY0OD {
-  background-color: var(--background-secondary);
-}
-            
-            
-            
-.theme-dark .codeRedemptionRedirect-1wVR4b {
-    color: #fff;
-    background-color: var(--background-secondary);
-    border-color: #202225;
-}
-            
-  .item-26Dhrx[aria-checked=true] {
-    background-color: var(--background-secondary);
-    color: var(--interactive-active);
-}
-.theme-dark .userSettingsVoice-iwdUCU .previewOverlay-2O7_KC {
-  background-color: var(--background-secondary);
-}
-            
-.theme-dark .modal-yWgWj- {
-  background-color: var(--background-secondary);
-
-.membershipDialogHouse1-3KhKE- {
-  background-color: var(--background-accent);
-}
-            
-.peopleList-3c4jOR.grid .peopleListItem-2nzedh {
-  background: var(--background-primary);
-}
-            
-.theme-dark .lookFilled-1Gx00P.colorGrey-2DXtkV:hover {
-    background-color: var(--background-secondary);
-}
-            
-  .theme-dark .card-FDVird:before {
-    background-color: var(--background-secondary);
-    border-color: var(--background-secondary-alt);
-}
-
-.theme-dark .emojiAliasInput-1y-NBz .emojiInput-1aLNse {
-  background-color: var(--background-primary);
-}
-
-.item-26Dhrx[aria-checked=true] {
-  background-color: var(--background-accent);
-  color: var(--interactive-active);
-}
-
-.radioBar-bMNUI- {
-  background-color: 3px solid var(--radio-bar-accent-color)
-}   
-    .upsellContainer-L9xv7w {
-      background-color: var(--background-secondary);
-    }
+    .elevationBorderHigh-2WYJ09,.theme-dark .container-3ayLPN{background-color:var(--background-secondary);box-shadow:none}
+    .theme-dark .option-96V44q.selected-rZcOL-{background-color:var(--background-modifier-hover)}
+    .resultsGroup-r_nuzN .searchLearnMore-3SQUAj{display:none}
+    .theme-dark .option-96V44q:after{display:none}
+    .theme-dark .calendarPicker-2yf6Ci .react-datepicker{background-color:var(--background-primary)}
+    .theme-dark .calendarPicker-2yf6Ci .react-datepicker__header{background-color:var(--background-secondary);border-color:rgba(24,25,28,.2)}
+    .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled,.theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled:hover{background-color:var(--background-secondary);color:rgba(246,246,247,.3)}
+    .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day--disabled,.theme-dark .calendarPicker-2yf6Ci .react-datepicker__day--outside-month{background-color:var(--background-secondary2);color:rgba(246,246,247,.3)}
+    .peopleColumn-29fq28{background-color:var(--background-secondary)}
+    .container-1r6BKw.themed-ANHk51{background:var(--background-primary)}
+    .list-donH_Z{background-color:var(--background-secondary)}
+    .list-17lzo8{background-color:var(--background-primary)}
+    .categoryHeader-O1zU94{background-color:var(--background-secondary)}
+    .headerLabel-3dG4M-{color:#fff}
+    .powercord-toast{border-radius:18px;background-color:transparent}
+    .powercord-toast .header{background-color:var(--background-secondary);border-radius:12px 12px 0 0}
+    .powercord-toast .buttons{background-color:var(--background-secondary-alt);border-radius:0 0 10px 10px}
+    .lookGhost-2Fn_0-.colorBrand-3pXr91{color:#f4f7f5;background-color:var(--background-help-info)}
+    .lookGhost-2Fn_0-.colorBrand-3pXr91:hover{color:#f4f7f5;background-color:var(--background-modifier-hover)}
+    .lookOutlined-3sRXeN.colorRed-1TFJan{color:#f4f7f5;border-color:#f04747d0;background-color:#f0474738}
+    .lookOutlined-3sRXeN.colorRed-1TFJan:hover{color:#f4f7f5;border-color:#eb2e2ed0;background-color:#e93636a8}
+    .lookOutlined-3sRXeN.colorGrey-2DXtkV{color:#f4f7f5;border-color:#b6bec9;background-color:#747f8d93}
+    .lookOutlined-3sRXeN.colorGrey-2DXtkV:hover{color:#f4f7f5;border-color:#cbd3df;background-color:#99a6b893}
+    .lookOutlined-3sRXeN .contents-18-Yxp{color:#fff}
+    .powercord-toast .header{font-size:15px}
+    .powercord-toast .contents .inner{background-color:transparent;border:none}
+    .theme-dark .pageWrapper-1PgVDX{background-color:var(--background-secondary)}
+    .accountList-33MS45{background-color:var(--background-accent)}
+    .scrollableContainer-2NUZem{background-color:var(--channelltextarea-background)}
+    .theme-dark .headerNormal-T_seeN{background:var(--background-secondary)}
+    .theme-light .headerNormal-T_seeN{background:var(--background-secondary)}
+    .headerNormal-T_seeN,.topSectionNormal-2-vo2m{background:var(--background-secondary)}
+    .body-3ND3kc{height:240px;background-color:var(--background-primary-alt)}
+    .theme-dark .body-3iLsc4,.theme-dark .footer-1fjuF6{background-color:var(--background-primary-alt)}
+    .theme-dark .footer-1fjuF6,.theme-light .body-3iLsc4{background-color:var(--background-primary-alt)}
+    .cardContent-qqqwo8{background-color:var(--background-secondary-alt)}
+    .theme-dark .lookFilled-1Gx00P.colorGrey-2DXtkV{background-color:var(--background-primary-alt)}
+    .theme-light .lookFilled-1Gx00P.colorGrey-2DXtkV{background-color:var(--background-primary-alt)}
+    .theme-dark .notDetected-33MY4s,.theme-light .notDetected-33MY4s{background-color:var(--background-primary-alt)}
+    .theme-light .notDetected-33MY4s{background-color:var(--background-primary-alt)}
+    .upsellFooter-ZYsio_{background-color:var(--background-primary-alt)}
+    .enableContainer-2DIT9Q,.settingsFormFieldWrapper-3Y77Pr{background-color:var(--background-primary-alt)}
+    .tierHeaderContent-2-YfvN{background-color:var(--background-secondary)}
+    .theme-dark .tierBody-x9kBBp{background-color:var(--background-primary-alt)}
+    .theme-light .tierBody-x9kBBp{background-color:var(--background-primary-alt)}
+    .theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6{background-color:var(--background-primary-alt)}
+    .notice-3bPHh-,.notice-3uyY6c{background-color:var(--background-accent)}
+    .theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6{background-color:var(--background-primary-alt)}
+    .autocompleteInner-zh20B_{background-color:var(--background-secondary)}
+    .theme-dark .selected-1Tbx07{background-color:var(--background-modifier-hover)}
+    .theme-dark .scroller-1-nKid{background-color:var(--background-primary)}
+    .theme-dark .reactionSelected-1pqISm{width:67px;border-radius:4px}
+    .theme-dark .container-1If-HZ,.theme-dark .reactors-Blmlhw{background-color:var(--background-secondary)}
+    .circleIconButton-1QV--U.selected-1JjBPm{color:#fff;background-color:var(--background-accent)}
+    .circleIconButton-1QV--U{color:#f6faf8}
+    .theme-dark .perk-2WeBWW{background-color:var(--background-primary)}
+    .theme-dark .tierBody-16Chc9{background-color:var(--background-primary)}
+    .theme-dark .tierHeaderLocked-1s2JJz{background-color:var(--background-secondary)}
+    .scroller-3__pG8{background-color:var(--background-secondary)}
+    .css-1ye7vu0,.theme-dark .addGamePopout-2RY8Ju{background-color:var(--background-secondary)}
+    .formNotice-2_hHWR,.powercord-account,.powercord-product{background-color:var(--background-secondary)}
+    .attendeeCTA-3ZZQWt{background-color:var(--background-secondary)}
+    .popout-VcNcHB{background-color:var(--background-primary);border-radius:12px}
+    .lookFilled-22uAsw.select-2fjwPw{background-color:var(--background-primary-alt)}
+    .option-3KoAJB[aria-selected=true]{background-color:var(--background-primary-alt)}
+    .option-3KoAJB.focused-1T6PE5,.option-3KoAJB:focus,.option-3KoAJB:hover{background-color:var(--background-primary-alt)}
+    .emojiPicker-3PwZFl,.inspector-3LQtX9,.unicodeShortcut-15J8Ck{background-color:var(--background-secondary);border-radius:12px 12px 12px 12px}
+    .toolbar-2bjZV7{background-color:var(--background-floating)}
+    .modalContent-1T1Tix{background-color:var(--background-primary)}
+    .theme-dark .footer-2gL1pp{background-color:var(--background-secondary)}
+    .form-26zE04,.theme-dark .root-1gCeng{background-color:transparent}
+    .theme-dark .message-2qRu38{background-color:var(--background-secondary)}
+    .form-26zE04,.theme-dark .root-1gCeng{background-color:var(--background-primary)}
+    .tabBody-3YRQ8W{background-color:var(--background-primary)}
+    .container-1r6BKw.themed-ANHk51{background:var(--background-primary)}
+    .inner-2P4tQO{background-color:var(--background-primary)}
+    .theme-dark .inset-3sAvek{background-color:var(--background-secondary)}
+    .theme-dark .outer-1AjyKL.active-1xchHY,.theme-dark .outer-1AjyKL.interactive-3B9GmY:hover{background-color:var(--background-modifier-hover)}
+    .section-2gLsgF,.theme-dark .outer-1AjyKL.active-1xchHY,.theme-dark .outer-1AjyKL.interactive-3B9GmY:hover{background-color:var(--background-primary)}
+    .input-2VB9rf{background-color:var(--background-primary)}
+    .theme-dark .focused-2bY0OD{background-color:var(--background-secondary)}
+    .theme-dark .codeRedemptionRedirect-1wVR4b{color:#fff;background-color:var(--background-secondary);border-color:#202225}
+    .item-26Dhrx[aria-checked=true]{background-color:var(--background-secondary);color:var(--interactive-active)}
+    .theme-dark .userSettingsVoice-iwdUCU .previewOverlay-2O7_KC{background-color:var(--background-secondary)}
+    .theme-dark .modal-yWgWj-{background-color:var(--background-secondary)}
+    .peopleList-3c4jOR.grid .peopleListItem-2nzedh{background:var(--background-primary)}
+    .theme-dark .lookFilled-1Gx00P.colorGrey-2DXtkV:hover{background-color:var(--background-secondary)}
+    .theme-dark .card-FDVird:before{background-color:var(--background-secondary);border-color:var(--background-secondary-alt)}
+    .theme-dark .emojiAliasInput-1y-NBz .emojiInput-1aLNse{background-color:var(--background-primary)}
+    .item-26Dhrx[aria-checked=true]{background-color:var(--background-accent);color:var(--interactive-active)}
+    .radioBar-bMNUI-{background-color:3px solid var(--radio-bar-accent-color)}
+    .upsellContainer-L9xv7w{background-color:var(--background-secondary)}
+    .theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6:active,.theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6:hover{background-color:var(--background-accent)}
+    .item-26Dhrx[aria-checked=true]{background-color:var(--background-accent);color:var(--interactive-active)}
+    .elevationHigh-1PneE4{background-color:var(--background-secondary)}
+    .theme-dark .lookFilled-1Gx00P.colorGrey-2DXtkV:hover{background-color:var(--background-accent)}
+    .theme-dark .tierAccomplished-2eXPdI,.theme-dark .tierCurrent-Lw7-4E,.theme-dark .tierDefault-2qaRkD,.theme-light .tierAccomplished-2eXPdI,.theme-light .tierCurrent-Lw7-4E,.theme-light .tierDefault-2qaRkD{background-color:var(--background-accent)}
+    .theme-dark .card-FDVird:before{background-color:var(--background-secondary)}
     
-    .theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6:active, .theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6:hover {
-      background-color: var(--background-accent);
-    }
-    .item-26Dhrx[aria-checked=true] {
-      background-color: var(--background-accent);
-      color: var(--interactive-active);
-  }    
-            
-.elevationHigh-1PneE4 {
-      background-color: var(--background-secondary);
-    }
-  .theme-dark .lookFilled-1Gx00P.colorGrey-2DXtkV:hover {
-    background-color: var(--background-accent);
-}
-            
-                .theme-dark .tierAccomplished-2eXPdI, .theme-dark .tierCurrent-Lw7-4E, .theme-dark .tierDefault-2qaRkD, .theme-light .tierAccomplished-2eXPdI, .theme-light .tierCurrent-Lw7-4E, .theme-light .tierDefault-2qaRkD {
-      background-color: var(--background-accent);
-    }
-            
-            
-    .theme-dark .card-FDVird:before {
-      background-color: var(--background-secondary);
-    }
-/* END OF DISCORD SUPPORT */
-         
-
-
-/* Powercord Plugin Support */
-
-/* Powercord Plugin Support */
-
-/* Powercord Plugin Support */
-
-
-/* Holynotes Plugin By D Brox#3725 */
-.theme-dark .modal-yWgWj- {background-color: var(--background-primary);border-radius: var(--modal-border-radius); }
-
-/* END OF PLUGIN SUPPORT */
+    /* END OF DISCORD SUPPORT */
+    
+    .theme-dark .modal-yWgWj-{background-color:var(--background-primary);border-radius:var(--modal-border-radius)}
