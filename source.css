@@ -171,6 +171,14 @@
   background-color: var(--background-modifier-hover);
 }
 
+/* Search Fix */
+.theme-dark .outer-1AjyKL.active-1xchHY, .theme-dark .outer-1AjyKL.interactive-3B9GmY:hover, .section-2gLsgF {
+   background-color: var(--background-primary);
+}
+
+.theme-dark .focused-2bY0OD {
+   background-color: var(--background-secondary)
+}
 /* END OF DISCORD SUPPORT */
          
 
