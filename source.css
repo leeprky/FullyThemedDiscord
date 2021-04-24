@@ -183,6 +183,77 @@
 .theme-dark .focused-2bY0OD {
   background-color: var(--background-secondary);
 }
+            
+            
+            
+.theme-dark .codeRedemptionRedirect-1wVR4b {
+    color: #fff;
+    background-color: var(--background-secondary);
+    border-color: #202225;
+}
+            
+  .item-26Dhrx[aria-checked=true] {
+    background-color: var(--background-secondary);
+    color: var(--interactive-active);
+}
+.theme-dark .userSettingsVoice-iwdUCU .previewOverlay-2O7_KC {
+  background-color: var(--background-secondary);
+}
+            
+.theme-dark .modal-yWgWj- {
+  background-color: var(--background-secondary);
+
+.membershipDialogHouse1-3KhKE- {
+  background-color: var(--background-accent);
+}
+            
+.peopleList-3c4jOR.grid .peopleListItem-2nzedh {
+  background: var(--background-primary);
+}
+            
+.theme-dark .lookFilled-1Gx00P.colorGrey-2DXtkV:hover {
+    background-color: var(--background-secondary);
+}
+            
+  .theme-dark .card-FDVird:before {
+    background-color: var(--background-secondary);
+    border-color: var(--background-secondary-alt);
+}
+
+.theme-dark .emojiAliasInput-1y-NBz .emojiInput-1aLNse {
+  background-color: var(--background-primary);
+}
+
+.item-26Dhrx[aria-checked=true] {
+  background-color: var(--background-accent);
+  color: var(--interactive-active);
+}
+
+.radioBar-bMNUI- {
+  background-color: 3px solid var(--radio-bar-accent-color)
+}   
+    .upsellContainer-L9xv7w {
+      background-color: var(--background-secondary);
+    }
+    
+    .theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6:active, .theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6:hover {
+      background-color: var(--background-accent);
+    }
+    .item-26Dhrx[aria-checked=true] {
+      background-color: var(--background-accent);
+      color: var(--interactive-active);
+  }    
+            
+.elevationHigh-1PneE4 {
+      background-color: var(--background-secondary);
+    }
+  .theme-dark .lookFilled-1Gx00P.colorGrey-2DXtkV:hover {
+    background-color: var(--background-accent);
+}
+            
+                .theme-dark .tierAccomplished-2eXPdI, .theme-dark .tierCurrent-Lw7-4E, .theme-dark .tierDefault-2qaRkD, .theme-light .tierAccomplished-2eXPdI, .theme-light .tierCurrent-Lw7-4E, .theme-light .tierDefault-2qaRkD {
+      background-color: var(--background-accent);
+    }
 /* END OF DISCORD SUPPORT */
          
 
