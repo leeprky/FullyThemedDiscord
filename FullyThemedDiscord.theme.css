@@ -111,8 +111,7 @@
     .theme-dark .card-FDVird:before{background-color:var(--background-secondary)}
     .theme-dark .quickSelectPopout-X1hvgV {background-color: var(--background-secondary);}
     .theme-dark .quickSelectPopoutOption-opKBx9:hover {background-color: var(--background-modifier-hover);}
-.ThemeDownloaderApply:not(.applied) div:hover{border-radius:var(--hover-border-radius)}
-.ThemeDownloaderApply:not(.applied) div{border-radius:var(--hover-border-radius)}
+    .ThemeDownloaderApply:not(.applied) div:hover {background-color: var(--background-modifier-hover);}
     /* END OF DISCORD SUPPORT */
     
     .theme-dark .modal-yWgWj-{background-color:var(--background-primary);border-radius:var(--modal-border-radius)}
