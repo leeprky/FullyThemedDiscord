@@ -109,7 +109,8 @@
     .theme-dark .lookFilled-1Gx00P.colorGrey-2DXtkV:hover{background-color:var(--background-accent)}
     .theme-dark .tierAccomplished-2eXPdI,.theme-dark .tierCurrent-Lw7-4E,.theme-dark .tierDefault-2qaRkD,.theme-light .tierAccomplished-2eXPdI,.theme-light .tierCurrent-Lw7-4E,.theme-light .tierDefault-2qaRkD{background-color:var(--background-accent)}
     .theme-dark .card-FDVird:before{background-color:var(--background-secondary)}
-    
+    .theme-dark .quickSelectPopout-X1hvgV {background-color: var(--background-secondary);}
+    .theme-dark .quickSelectPopoutOption-opKBx9:hover {background-color: var(--background-modifier-hover);}
     /* END OF DISCORD SUPPORT */
     
     .theme-dark .modal-yWgWj-{background-color:var(--background-primary);border-radius:var(--modal-border-radius)}
